@@ -55,8 +55,7 @@ export class Engine {
 
     resizeView() {
         const dimensions = this.getScreenDimenions();
-        const ratio = 
-        Math.min(
+        const ratio = Math.min(
             dimensions.width / VIEWPORT_WIDTH,
             dimensions.height / VIEWPORT_HEIGHT
         );
@@ -66,7 +65,5 @@ export class Engine {
             Math.ceil(VIEWPORT_WIDTH * ratio),
             Math.ceil(VIEWPORT_HEIGHT * ratio)
         );
-
-        console.log(this.stage.width, this.stage.height)
     }
 }

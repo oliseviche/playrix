@@ -1,6 +1,6 @@
-# Demo for softgames
+# Demo for playrix
 
-Preview link: https://oliseviche.github.io/softgames/dist/
+Preview link: https://oliseviche.github.io/playrix/dist/
 
 Install:
 1. Clone repository to local machine
@@ -12,4 +12,3 @@ Execution:
 
 Technologies used for creating the demo: 
 1. PIXI.js, Typescipt, WebPack
-2. Additional library for adding particles effect - pixi-particles

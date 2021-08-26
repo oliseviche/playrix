@@ -2,7 +2,7 @@
 // theirs 'in' and 'out' lifecycles 
 
 import { Engine } from "./engine";
-import { BaseScene, SceneConstructor } from "../scenes/base-scene";
+import { BaseScene, SceneConstructor } from "../scenes/base/base-scene";
 
 export class SceneDirector {
     private scenes: SceneConstructor[] = [];

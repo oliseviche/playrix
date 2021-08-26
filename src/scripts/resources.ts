@@ -16,3 +16,5 @@ export const imageBookStand = require('../images/book_stand.png');
 export const imagePlant1 = require('../images/plant-1.png');
 export const imagePlant2 = require('../images/dec_1.png');
 export const imageAustin = require('../images/Austin.png');
+export const imageLogo = require('../images/logo.png');
+export const imageFinal = require('../images/Layer 2.png')
